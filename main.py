@@ -9,6 +9,7 @@ print(art.logo)
 print("\nWelcome to Guess-Who-Is-More-Popular game!\n")
 print()
 
+# Let's set up a function that would pick a good match from the database.
 
 def pick_choice(choice):
     """Enables selection of a second option that would be different from first option"""
